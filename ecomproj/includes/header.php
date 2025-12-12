@@ -101,5 +101,5 @@ $unreadCount = isset($_SESSION['user_id'])
         </ul>
     </nav>
 </header>
-<script src="js/cart-actions.js"></script>
+
 <main>
